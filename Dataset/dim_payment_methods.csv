@@ -1,0 +1,7 @@
+﻿payment_method_id,payment_method,payment_group
+1,Cash,Cash
+2,Credit Card,Card
+3,Debit Card,Card
+4,Apple Pay,Digital Wallet
+5,Google Pay,Digital Wallet
+6,Voucher,Voucher

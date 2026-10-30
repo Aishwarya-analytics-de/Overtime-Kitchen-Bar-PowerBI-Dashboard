@@ -1,0 +1,33 @@
+﻿menu_item_id,item_name,category,menu_course,price
+101,Hamburger,American,Hauptspeise,12.95
+102,Cheeseburger,American,Hauptspeise,13.95
+103,Hot Dog,American,Hauptspeise,9.0
+104,Veggie Burger,American,Hauptspeise,10.5
+105,Mac & Cheese,American,Beilage,7.0
+106,French Fries,American,Beilage,7.0
+107,Orange Chicken,Asian,Hauptspeise,16.5
+108,Tofu Pad Thai,Asian,Hauptspeise,14.5
+109,Korean Beef Bowl,Asian,Hauptspeise,17.95
+110,Pork Ramen,Asian,Hauptspeise,17.95
+111,California Roll,Asian,Hauptspeise,11.95
+112,Salmon Roll,Asian,Hauptspeise,14.95
+113,Edamame,Asian,Vorspeise,5.0
+114,Potstickers,Asian,Vorspeise,9.0
+115,Chicken Tacos,Mexican,Hauptspeise,11.95
+116,Steak Tacos,Mexican,Hauptspeise,13.95
+117,Chicken Burrito,Mexican,Hauptspeise,12.95
+118,Steak Burrito,Mexican,Hauptspeise,14.95
+119,Chicken Torta,Mexican,Hauptspeise,11.95
+120,Steak Torta,Mexican,Hauptspeise,13.95
+121,Cheese Quesadillas,Mexican,Hauptspeise,10.5
+122,Chips & Salsa,Mexican,Vorspeise,7.0
+123,Chips & Guacamole,Mexican,Vorspeise,9.0
+124,Spaghetti,Italian,Hauptspeise,14.5
+125,Spaghetti & Meatballs,Italian,Hauptspeise,17.95
+126,Fettuccine Alfredo,Italian,Hauptspeise,14.5
+127,Meat Lasagna,Italian,Hauptspeise,17.95
+128,Cheese Lasagna,Italian,Hauptspeise,15.5
+129,Mushroom Ravioli,Italian,Hauptspeise,15.5
+130,Shrimp Scampi,Italian,Hauptspeise,19.95
+131,Chicken Parmesan,Italian,Hauptspeise,17.95
+132,Eggplant Parmesan,Italian,Hauptspeise,16.95

@@ -1,0 +1,6 @@
+﻿restaurant_id,restaurant_name,location_type,opening_hours,seats,profile
+1,Downtown,Business District,Mon-Fri 10:30-20:30; Sat-Sun limited,82,"Business lunch, weekday focused"
+2,Center,Shopping Center,Mon-Sat 10:00-21:00; Sun/holiday limited,116,"Shopping hours, strong Friday/Saturday"
+3,Recreational Park,Leisure / Park,Daily 10:00-20:00; seasonal,148,"Weekend, holidays, school breaks and daytime"
+4,Nightlife District,Entertainment District,Mon-Thu 11:00-01:00 | Fri-Sat 11:00-02:00 | Sun 11:00-00:00,130,"Daily business with lunch demand plus strong evening and nightlife peaks, especially Friday and Saturday"
+5,Tourist Biergarten,Seasonal Tourism Spot,May-Sep daily 11:00-21:00 | Oct-Apr closed,260,"Seasonal beer garden with strong weekend, holiday, tourism and school-break demand"

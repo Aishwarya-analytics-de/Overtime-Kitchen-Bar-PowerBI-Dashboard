@@ -1,0 +1,14 @@
+﻿promotion_code,promotion_name,promotion_type,promotion_level,discount_pct
+NONE0,No Promotion,Standard,0,0.0
+LUNCH1,Lunch Deal 5%,Daypart,1,0.05
+LUNCH2,Lunch Deal 10%,Daypart,2,0.1
+LUNCH3,Lunch Deal 15%,Daypart,3,0.15
+FAMILY1,Family Bundle 10%,Bundle,1,0.1
+FAMILY2,Family Bundle 15%,Bundle,2,0.15
+FAMILY3,Family Bundle 20%,Bundle,3,0.2
+MALL1,Mall Coupon 5%,Coupon,1,0.05
+MALL2,Mall Coupon 10%,Coupon,2,0.1
+MALL3,Mall Coupon 15%,Coupon,3,0.15
+HOLIDAY1,Holiday Special 15%,Holiday,1,0.15
+HOLIDAY2,Holiday Special 20%,Holiday,2,0.2
+HOLIDAY3,Holiday Special 25%,Holiday,3,0.25

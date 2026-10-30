@@ -1,0 +1,25 @@
+﻿hour_id,hour,hour_label,daypart
+0,0,00:00–00:59,Morning
+1,1,01:00–01:59,Morning
+2,2,02:00–02:59,Morning
+3,3,03:00–03:59,Morning
+4,4,04:00–04:59,Morning
+5,5,05:00–05:59,Morning
+6,6,06:00–06:59,Morning
+7,7,07:00–07:59,Morning
+8,8,08:00–08:59,Morning
+9,9,09:00–09:59,Morning
+10,10,10:00–10:59,Morning
+11,11,11:00–11:59,Lunch
+12,12,12:00–12:59,Lunch
+13,13,13:00–13:59,Lunch
+14,14,14:00–14:59,Afternoon
+15,15,15:00–15:59,Afternoon
+16,16,16:00–16:59,Afternoon
+17,17,17:00–17:59,Afternoon
+18,18,18:00–18:59,Dinner
+19,19,19:00–19:59,Dinner
+20,20,20:00–20:59,Dinner
+21,21,21:00–21:59,Late Evening
+22,22,22:00–22:59,Late Evening
+23,23,23:00–23:59,Late Evening
