@@ -2,8 +2,7 @@
 
 # Project Title
 
-![This Power BI solution provides restaurant management with a comprehensive view of sales performance, customer behavior, operational efficiency, and key business KPIs.]
-(Screenshots/Executive Dashbaord.png)
+This Power BI solution provides restaurant management with a comprehensive view of sales performance, customer behavior, operational efficiency, and key business KPIs.
 
 ## Business Question
 Restaurant managers require timely reporting to monitor sales trends, peak operating periods, customer activity, and overall business performance.
